@@ -1,90 +1,54 @@
-# All in Pyq Privacy Policy
+Privacy Policy for All in Pyq
+Last Updated: December 14, 2025
 
-**Last updated:** 14 December 2025
+1. Introduction
+Welcome to All in Pyq (“we”, “our”, or “us”). We are committed to protecting your privacy. This Privacy Policy explains how we collect, use, and disclose information when you use our mobile application.
 
-## Introduction
-Welcome to Question Bank App (“we”, “our”, “us”).  
-We respect your privacy and are committed to protecting it. This Privacy Policy explains how information is handled when you use our mobile app available on the Google Play Store.
+2. Information We Collect
+To provide a personalized experience, we collect certain information:
 
-By using the app, you agree to this Privacy Policy.
+Personal Information: If you use the Google Sign-in feature, we collect your name and email address. This is used to create your account and sync your saved PDFs or progress across devices.
 
----
+Device Information: We collect data such as device model, operating system version, and unique device identifiers for technical troubleshooting.
 
-## Information We Collect
-We do not collect personally identifiable information such as name, email, or phone number.
+Usage Data: Information on how you interact with the app (e.g., pages viewed, buttons clicked).
 
-We may collect:
-- Device info (model, OS version)
-- App usage data
-- Advertising identifiers
-- Internet connectivity info
+3. Third-Party Services
+Our app integrates with the following third-party services which may collect data according to their own policies:
 
----
+Google Play Services: Used for app functionality and core services.
 
-## Third-Party Content and External Links
-The app provides access to educational content and downloadable PDFs hosted on **third-party websites**.
+Google AdMob: Used to display advertisements. AdMob may use advertising IDs to serve personalized ads.
 
-- We do not host or own external content  
-- Downloads are user-initiated  
-- We are not responsible for privacy or content of external websites
+Google Sign-in: Used for user authentication.
 
----
+You can view Google’s Privacy Policy here: https://policies.google.com/privacy
 
-## Advertising
-We use **Google AdMob** to display ads.  
-AdMob may collect and use information as described in its Privacy Policy:  
-https://policies.google.com/privacy
+4. Permissions
+To function correctly, the app requests the following permissions:
 
----
+Internet Access: Required to load educational content and advertisements.
 
-## Downloads and Storage
-PDF files are downloaded locally on your device.  
-We do not access or upload downloaded files.
+Storage/Media Access: Required solely to download and save educational PDF files to your device. We do not access your private photos or videos.
 
----
+5. Data Deletion (Google Play Requirement)
+We respect your right to your data.
 
-## Permissions
-The app may use:
-- **Internet access** – for loading content and ads  
-- **Storage access** – to save PDFs locally
+Account Deletion: You may request the deletion of your account and associated personal data (Name/Email) at any time.
 
----
+How to Delete: To request data deletion, please email us at shashankaggarwal23456@gmail.com. We will process your request and delete all associated user data from our records within 7 business days.
 
-## Third-Party Services
-The app uses:
-- Google AdMob  
-- Android WebView
+6. Third-Party Content
+The app provides links to educational PDFs hosted on third-party websites. We do not own or host this content. Once you click an external link, you are subject to the privacy policy of that third-party site.
 
----
+7. Children’s Privacy
+This app is intended for students. While we do not knowingly collect personal data from children under 13, we encourage parents to supervise app usage. We comply with COPPA regulations.
 
-## Copyright and Content Ownership
-All content on external websites remains the property of its owners.  
-The app does not claim ownership and is for educational use only.
+8. Security
+We implement reasonable security measures to protect your information. However, please be aware that no transmission over the internet is 100% secure.
 
----
+9. Changes to This Policy
+We may update this policy from time to time. We will notify you of any changes by updating the "Last Updated" date at the top of this page.
 
-## Children’s Privacy
-Not intended for children under 13.  
-No personal data from children is collected.
-
----
-
-## Data Security
-Reasonable measures are taken to protect data. No method is 100% secure.
-
----
-
-## Changes
-We may update this Privacy Policy.  
-Changes will be reflected on this page with an updated date.
-
----
-
-## Contact Us
-For questions, contact:  
-📧 shashankaggarwal23456@gmail.com
-
----
-
-## Consent
-By using the app, you consent to this Privacy Policy.
+10. Contact Us
+If you have any questions regarding this Privacy Policy, please contact us: Email: shashankaggarwal23456@gmail.com
