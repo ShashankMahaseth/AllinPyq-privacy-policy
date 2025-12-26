@@ -52,3 +52,6 @@ We may update this policy from time to time. We will notify you of any changes b
 
 10. Contact Us
 If you have any questions regarding this Privacy Policy, please contact us: Email: shashankaggarwal23456@gmail.com
+
+Disclaimer:
+This app does not host any PDFs or educational content. All materials are owned by their respective publishers and are accessed via publicly available websites.
